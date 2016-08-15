@@ -2,6 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>contactEmailRot13</key>
+	<string>ohaqyrf@grkgzngr.bet</string>
+	<key>contactName</key>
+	<string>Michael Sheets</string>
+	<key>description</key>
+	<string>Objective-C with added iPhone grammar parsing.</string>
 	<key>name</key>
 	<string>iPhone</string>
 	<key>uuid</key>
